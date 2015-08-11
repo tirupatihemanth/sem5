@@ -1,0 +1,25 @@
+anil friendof sunil
+
+sunil friendof jayant
+
+if anil friendof sunil
+    hemanth friendof tirupati
+    if sunil friendof kanishka
+        tirupati friendof kumar
+    endif
+    
+    if sunil friendof jayant
+        tirupati friendof router
+    endif
+endif
+
+jayant friendof jaya
+
+jayant friendof anand
+
+anil friendof jayant
+
+foreach x friendof anil
+    router friendof x
+endforeach
+

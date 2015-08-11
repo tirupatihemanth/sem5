@@ -1,0 +1,11 @@
+graph{
+anil -- sunil;
+sunil -- jayant;
+hemanth -- tirupati;
+tirupati -- router;
+jayant -- jaya;
+jayant -- anand;
+anil -- jayant;
+router -- sunil;
+router -- jayant;
+}
